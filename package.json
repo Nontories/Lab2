@@ -1,0 +1,24 @@
+{
+  "name": "lab2",
+  "version": "1.0.0",
+  "description": "Minh's Lab2",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nontories/Lab2.git"
+  },
+  "author": "Nontorier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nontories/Lab2/issues"
+  },
+  "homepage": "https://github.com/Nontories/Lab2#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
